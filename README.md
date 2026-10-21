@@ -41,9 +41,9 @@ I build responsive web platforms, e-commerce experiences, SaaS dashboards, and m
 ## How I Work
 
 Reusable components · Clear API integration · Responsive layouts · Performance optimization · Code reviews · Agile collaboration
-
+<!--
 ## GitHub Activity
 
 ![GitHub contribution streak](https://streak-stats.demolab.com/?user=kareem-dev-me&theme=github_dark&hide_border=true)
-
+-->
 <!-- Created with GPRM (https://gprm.itsvg.in), then refined for layout and readability. -->
